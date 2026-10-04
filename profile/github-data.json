@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T09:52:52+00:00",
+  "fetchedAt": "2026-10-04T10:35:35+00:00",
   "user": {
     "followers": 6,
     "publicRepos": 8
@@ -10,34 +10,6 @@
     "commits12mo": 217
   },
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 0
-    },
-    {
-      "date": "2025-09-29",
-      "count": 0
-    },
-    {
-      "date": "2025-09-30",
-      "count": 0
-    },
-    {
-      "date": "2025-10-01",
-      "count": 0
-    },
-    {
-      "date": "2025-10-02",
-      "count": 0
-    },
-    {
-      "date": "2025-10-03",
-      "count": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0
@@ -1492,6 +1464,10 @@
     },
     {
       "date": "2026-10-03",
+      "count": 3
+    },
+    {
+      "date": "2026-10-04",
       "count": 2
     }
   ],
@@ -1536,19 +1512,19 @@
     },
     {
       "name": "TypeScript",
-      "pct": 28
+      "pct": 27
     },
     {
       "name": "HTML",
       "pct": 24
     },
     {
-      "name": "JavaScript",
+      "name": "Python",
       "pct": 5
     },
     {
       "name": "Other",
-      "pct": 4
+      "pct": 5
     }
   ]
 }
